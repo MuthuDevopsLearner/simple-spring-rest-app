@@ -11,7 +11,7 @@ public class MuthufirstappApplication {
 
     @RequestMapping("/")
     String home() {
-        return "Hello World! Bala here version 1";
+        return "Hello World! Muthu version 1 entering";
     }
 
 	public static void main(String[] args) {
